@@ -1,0 +1,3 @@
+name: EssentialsWarpLinks
+main: nl.knokko.esswl.plugin.WarpLinksPlugin
+version: 0.1
